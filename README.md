@@ -20,8 +20,8 @@ En este reto deberás desarrollar una página de contacto utilizando HTML y CSS.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: https://github.com/RoundWinter05/Contact-Page---Web.git 
+Deploy: https://roundwinter05.github.io/Contact-Page---Web/
 ---
 
 ## 📝 Reflexión
